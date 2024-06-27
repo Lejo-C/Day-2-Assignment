@@ -1,0 +1,5 @@
+1. write a blog on difference between document and windows object.
+Ans:
+     The document object represents the entire HTML document. 
+     It serves as an interface to the content of the web page
+     and allows JavaScript to access and manipulate the elements within it.
